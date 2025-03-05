@@ -1,5 +1,5 @@
 # 💫 About Me:
-💼Developer at CWI Software<br>💡Specializing in Backend development<br>🌐Growing interest in Frontend technologies<br><br>🍻 Coding for beer
+💼Developer at CWI Software<br>💡Specializing in Backend development<br>🌐Growing interest in Frontend technologies<br>
 
 
 ## 🌐 Socials:
